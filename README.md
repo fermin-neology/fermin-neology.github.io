@@ -1,4 +1,4 @@
-fundamentals.training.first
+# fundamentals.training.first
 ===========================
 
-First test repository
+First README edited in GitHub
